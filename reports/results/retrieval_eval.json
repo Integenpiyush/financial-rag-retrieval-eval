@@ -1,0 +1,1378 @@
+{
+  "TF-IDF": {
+    "recall_at_1": 0.6363636363636364,
+    "recall_at_3": 0.9090909090909091,
+    "recall_at_5": 0.9090909090909091,
+    "mrr": 0.7424242424242423,
+    "n_questions": 22,
+    "per_question_at_5": [
+      {
+        "qid": "q1",
+        "question": "How many full-time equivalent employees did Apple have as of September 28, 2024?",
+        "retrieved": [
+          "AAPL_2",
+          "AAPL_1",
+          "AAPL_15",
+          "AAPL_12",
+          "AMZN_1"
+        ],
+        "relevant": [
+          "AAPL_2"
+        ],
+        "hit": 1.0
+      },
+      {
+        "qid": "q2",
+        "question": "What was Apple's total net sales in fiscal year 2024?",
+        "retrieved": [
+          "AMZN_6",
+          "AAPL_1",
+          "AAPL_9",
+          "AMZN_5",
+          "AAPL_8"
+        ],
+        "relevant": [
+          "AAPL_8",
+          "AAPL_9"
+        ],
+        "hit": 1.0
+      },
+      {
+        "qid": "q3",
+        "question": "What was Apple's Services segment net sales in 2024 and how much did it grow?",
+        "retrieved": [
+          "AAPL_1",
+          "AAPL_9",
+          "AAPL_8",
+          "AMZN_6",
+          "AMZN_5"
+        ],
+        "relevant": [
+          "AAPL_10"
+        ],
+        "hit": 0.0
+      },
+      {
+        "qid": "q4",
+        "question": "What was Apple's total gross margin percentage in fiscal 2024?",
+        "retrieved": [
+          "AAPL_11",
+          "AAPL_10",
+          "AAPL_1",
+          "MSFT_8",
+          "AMZN_6"
+        ],
+        "relevant": [
+          "AAPL_11"
+        ],
+        "hit": 1.0
+      },
+      {
+        "qid": "q5",
+        "question": "What was Apple's effective tax rate in fiscal 2024 and why was it higher than the statutory rate?",
+        "retrieved": [
+          "AAPL_11",
+          "AAPL_10",
+          "AAPL_1",
+          "AMZN_3",
+          "AAPL_15"
+        ],
+        "relevant": [
+          "AAPL_9",
+          "AAPL_10",
+          "AAPL_11"
+        ],
+        "hit": 1.0
+      },
+      {
+        "qid": "q6",
+        "question": "How much cash, cash equivalents and marketable securities did Apple hold as of September 28, 2024?",
+        "retrieved": [
+          "AAPL_12",
+          "AMZN_7",
+          "AAPL_1",
+          "AMZN_6",
+          "AAPL_15"
+        ],
+        "relevant": [
+          "AAPL_12"
+        ],
+        "hit": 1.0
+      },
+      {
+        "qid": "q7",
+        "question": "How much did Apple pay Ireland in connection with the State Aid Decision?",
+        "retrieved": [
+          "AAPL_13",
+          "AAPL_1",
+          "AAPL_12",
+          "MSFT_2",
+          "AAPL_11"
+        ],
+        "relevant": [
+          "AAPL_13"
+        ],
+        "hit": 1.0
+      },
+      {
+        "qid": "q8",
+        "question": "How much did Apple spend on share repurchases during fiscal 2024?",
+        "retrieved": [
+          "AAPL_1",
+          "AAPL_13",
+          "MSFT_8",
+          "AMZN_6",
+          "AMZN_7"
+        ],
+        "relevant": [
+          "AAPL_14"
+        ],
+        "hit": 0.0
+      },
+      {
+        "qid": "q9",
+        "question": "What antitrust lawsuit did the U.S. Department of Justice file against Apple in 2024?",
+        "retrieved": [
+          "AAPL_6",
+          "AAPL_1",
+          "AAPL_7",
+          "AMZN_6",
+          "AMZN_7"
+        ],
+        "relevant": [
+          "AAPL_7"
+        ],
+        "hit": 1.0
+      },
+      {
+        "qid": "q10",
+        "question": "What did the European Commission investigate Apple for under the Digital Markets Act?",
+        "retrieved": [
+          "AAPL_1",
+          "MSFT_6",
+          "AAPL_6",
+          "MSFT_7",
+          "MSFT_2"
+        ],
+        "relevant": [
+          "AAPL_6"
+        ],
+        "hit": 1.0
+      },
+      {
+        "qid": "q11",
+        "question": "What was Microsoft's total revenue for fiscal year 2024?",
+        "retrieved": [
+          "MSFT_8",
+          "AMZN_6",
+          "AMZN_7",
+          "AMZN_5",
+          "MSFT_4"
+        ],
+        "relevant": [
+          "MSFT_8"
+        ],
+        "hit": 1.0
+      },
+      {
+        "qid": "q12",
+        "question": "How many people did Microsoft employ as of June 30, 2024?",
+        "retrieved": [
+          "MSFT_2",
+          "MSFT_4",
+          "MSFT_8",
+          "AMZN_1",
+          "MSFT_0"
+        ],
+        "relevant": [
+          "MSFT_2"
+        ],
+        "hit": 1.0
+      },
+      {
+        "qid": "q13",
+        "question": "What are Microsoft's three reportable segments?",
+        "retrieved": [
+          "AAPL_2",
+          "MSFT_0",
+          "MSFT_4",
+          "MSFT_2",
+          "AMZN_0"
+        ],
+        "relevant": [
+          "MSFT_0"
+        ],
+        "hit": 1.0
+      },
+      {
+        "qid": "q14",
+        "question": "What caused the Microsoft cybersecurity incident disclosed in the January 2024 Form 8-K?",
+        "retrieved": [
+          "MSFT_5",
+          "MSFT_4",
+          "MSFT_2",
+          "MSFT_0",
+          "AMZN_6"
+        ],
+        "relevant": [
+          "MSFT_5"
+        ],
+        "hit": 1.0
+      },
+      {
+        "qid": "q15",
+        "question": "When did Microsoft complete its acquisition of Activision Blizzard?",
+        "retrieved": [
+          "MSFT_7",
+          "MSFT_6",
+          "MSFT_4",
+          "MSFT_1",
+          "MSFT_2"
+        ],
+        "relevant": [
+          "MSFT_7"
+        ],
+        "hit": 1.0
+      },
+      {
+        "qid": "q16",
+        "question": "How many patents does Microsoft hold, according to its 10-K?",
+        "retrieved": [
+          "MSFT_2",
+          "MSFT_4",
+          "MSFT_0",
+          "MSFT_3",
+          "MSFT_5"
+        ],
+        "relevant": [
+          "MSFT_2"
+        ],
+        "hit": 1.0
+      },
+      {
+        "qid": "q17",
+        "question": "What was Amazon's total (consolidated) net sales for 2024?",
+        "retrieved": [
+          "AAPL_9",
+          "AMZN_6",
+          "AMZN_5",
+          "AAPL_8",
+          "AAPL_10"
+        ],
+        "relevant": [
+          "AMZN_5",
+          "AMZN_6"
+        ],
+        "hit": 1.0
+      },
+      {
+        "qid": "q18",
+        "question": "How much did AWS net sales grow in 2024?",
+        "retrieved": [
+          "AMZN_5",
+          "AMZN_6",
+          "AAPL_9",
+          "AAPL_8",
+          "AMZN_7"
+        ],
+        "relevant": [
+          "AMZN_5",
+          "AMZN_6"
+        ],
+        "hit": 1.0
+      },
+      {
+        "qid": "q19",
+        "question": "How many employees did Amazon have as of December 31, 2024?",
+        "retrieved": [
+          "AMZN_1",
+          "AMZN_0",
+          "AMZN_9",
+          "AMZN_6",
+          "AMZN_3"
+        ],
+        "relevant": [
+          "AMZN_1"
+        ],
+        "hit": 1.0
+      },
+      {
+        "qid": "q20",
+        "question": "How much did Amazon invest in Anthropic convertible notes?",
+        "retrieved": [
+          "AMZN_8",
+          "AMZN_0",
+          "AMZN_3",
+          "AMZN_2",
+          "AMZN_1"
+        ],
+        "relevant": [
+          "AMZN_8"
+        ],
+        "hit": 1.0
+      },
+      {
+        "qid": "q21",
+        "question": "What were Amazon's cash capital expenditures in 2024 compared to 2023?",
+        "retrieved": [
+          "AMZN_7",
+          "AMZN_6",
+          "AMZN_8",
+          "AAPL_9",
+          "AMZN_0"
+        ],
+        "relevant": [
+          "AMZN_8"
+        ],
+        "hit": 1.0
+      },
+      {
+        "qid": "q22",
+        "question": "What tax dispute is Amazon facing with the Indian tax authority?",
+        "retrieved": [
+          "AMZN_3",
+          "AAPL_11",
+          "AMZN_0",
+          "AAPL_10",
+          "AMZN_2"
+        ],
+        "relevant": [
+          "AMZN_3"
+        ],
+        "hit": 1.0
+      }
+    ]
+  },
+  "BM25": {
+    "recall_at_1": 0.6818181818181818,
+    "recall_at_3": 0.9090909090909091,
+    "recall_at_5": 0.9545454545454546,
+    "mrr": 0.7840909090909091,
+    "n_questions": 22,
+    "per_question_at_5": [
+      {
+        "qid": "q1",
+        "question": "How many full-time equivalent employees did Apple have as of September 28, 2024?",
+        "retrieved": [
+          "AAPL_2",
+          "AMZN_1",
+          "MSFT_2",
+          "AMZN_0",
+          "AAPL_15"
+        ],
+        "relevant": [
+          "AAPL_2"
+        ],
+        "hit": 1.0
+      },
+      {
+        "qid": "q2",
+        "question": "What was Apple's total net sales in fiscal year 2024?",
+        "retrieved": [
+          "MSFT_8",
+          "AAPL_10",
+          "AAPL_11",
+          "AMZN_6",
+          "AMZN_5"
+        ],
+        "relevant": [
+          "AAPL_8",
+          "AAPL_9"
+        ],
+        "hit": 0.0
+      },
+      {
+        "qid": "q3",
+        "question": "What was Apple's Services segment net sales in 2024 and how much did it grow?",
+        "retrieved": [
+          "AAPL_8",
+          "AAPL_9",
+          "MSFT_2",
+          "AAPL_10",
+          "AAPL_11"
+        ],
+        "relevant": [
+          "AAPL_10"
+        ],
+        "hit": 1.0
+      },
+      {
+        "qid": "q4",
+        "question": "What was Apple's total gross margin percentage in fiscal 2024?",
+        "retrieved": [
+          "AAPL_11",
+          "AAPL_10",
+          "MSFT_8",
+          "MSFT_2",
+          "AAPL_1"
+        ],
+        "relevant": [
+          "AAPL_11"
+        ],
+        "hit": 1.0
+      },
+      {
+        "qid": "q5",
+        "question": "What was Apple's effective tax rate in fiscal 2024 and why was it higher than the statutory rate?",
+        "retrieved": [
+          "AAPL_11",
+          "AAPL_10",
+          "AAPL_15",
+          "AAPL_12",
+          "AMZN_3"
+        ],
+        "relevant": [
+          "AAPL_9",
+          "AAPL_10",
+          "AAPL_11"
+        ],
+        "hit": 1.0
+      },
+      {
+        "qid": "q6",
+        "question": "How much cash, cash equivalents and marketable securities did Apple hold as of September 28, 2024?",
+        "retrieved": [
+          "AAPL_12",
+          "AMZN_7",
+          "AAPL_11",
+          "AMZN_6",
+          "AAPL_14"
+        ],
+        "relevant": [
+          "AAPL_12"
+        ],
+        "hit": 1.0
+      },
+      {
+        "qid": "q7",
+        "question": "How much did Apple pay Ireland in connection with the State Aid Decision?",
+        "retrieved": [
+          "AAPL_13",
+          "AAPL_12",
+          "AAPL_1",
+          "AAPL_11",
+          "AAPL_10"
+        ],
+        "relevant": [
+          "AAPL_13"
+        ],
+        "hit": 1.0
+      },
+      {
+        "qid": "q8",
+        "question": "How much did Apple spend on share repurchases during fiscal 2024?",
+        "retrieved": [
+          "AAPL_13",
+          "AAPL_1",
+          "AAPL_14",
+          "MSFT_2",
+          "AAPL_0"
+        ],
+        "relevant": [
+          "AAPL_14"
+        ],
+        "hit": 1.0
+      },
+      {
+        "qid": "q9",
+        "question": "What antitrust lawsuit did the U.S. Department of Justice file against Apple in 2024?",
+        "retrieved": [
+          "AAPL_6",
+          "AAPL_7",
+          "MSFT_2",
+          "AAPL_1",
+          "AAPL_14"
+        ],
+        "relevant": [
+          "AAPL_7"
+        ],
+        "hit": 1.0
+      },
+      {
+        "qid": "q10",
+        "question": "What did the European Commission investigate Apple for under the Digital Markets Act?",
+        "retrieved": [
+          "AAPL_6",
+          "MSFT_6",
+          "AAPL_1",
+          "AMZN_3",
+          "AMZN_2"
+        ],
+        "relevant": [
+          "AAPL_6"
+        ],
+        "hit": 1.0
+      },
+      {
+        "qid": "q11",
+        "question": "What was Microsoft's total revenue for fiscal year 2024?",
+        "retrieved": [
+          "MSFT_8",
+          "AAPL_11",
+          "AAPL_10",
+          "AAPL_0",
+          "AAPL_15"
+        ],
+        "relevant": [
+          "MSFT_8"
+        ],
+        "hit": 1.0
+      },
+      {
+        "qid": "q12",
+        "question": "How many people did Microsoft employ as of June 30, 2024?",
+        "retrieved": [
+          "MSFT_2",
+          "AMZN_1",
+          "MSFT_8",
+          "MSFT_1",
+          "AAPL_15"
+        ],
+        "relevant": [
+          "MSFT_2"
+        ],
+        "hit": 1.0
+      },
+      {
+        "qid": "q13",
+        "question": "What are Microsoft's three reportable segments?",
+        "retrieved": [
+          "AAPL_2",
+          "MSFT_0",
+          "AMZN_0",
+          "MSFT_4",
+          "AMZN_2"
+        ],
+        "relevant": [
+          "MSFT_0"
+        ],
+        "hit": 1.0
+      },
+      {
+        "qid": "q14",
+        "question": "What caused the Microsoft cybersecurity incident disclosed in the January 2024 Form 8-K?",
+        "retrieved": [
+          "MSFT_5",
+          "MSFT_4",
+          "AAPL_7",
+          "AMZN_1",
+          "MSFT_8"
+        ],
+        "relevant": [
+          "MSFT_5"
+        ],
+        "hit": 1.0
+      },
+      {
+        "qid": "q15",
+        "question": "When did Microsoft complete its acquisition of Activision Blizzard?",
+        "retrieved": [
+          "MSFT_7",
+          "MSFT_6",
+          "MSFT_8",
+          "MSFT_1",
+          "MSFT_2"
+        ],
+        "relevant": [
+          "MSFT_7"
+        ],
+        "hit": 1.0
+      },
+      {
+        "qid": "q16",
+        "question": "How many patents does Microsoft hold, according to its 10-K?",
+        "retrieved": [
+          "MSFT_5",
+          "MSFT_4",
+          "MSFT_2",
+          "AAPL_4",
+          "MSFT_1"
+        ],
+        "relevant": [
+          "MSFT_2"
+        ],
+        "hit": 1.0
+      },
+      {
+        "qid": "q17",
+        "question": "What was Amazon's total (consolidated) net sales for 2024?",
+        "retrieved": [
+          "AAPL_11",
+          "AAPL_10",
+          "AMZN_5",
+          "AMZN_9",
+          "AMZN_6"
+        ],
+        "relevant": [
+          "AMZN_5",
+          "AMZN_6"
+        ],
+        "hit": 1.0
+      },
+      {
+        "qid": "q18",
+        "question": "How much did AWS net sales grow in 2024?",
+        "retrieved": [
+          "AMZN_5",
+          "AMZN_6",
+          "AMZN_7",
+          "AMZN_8",
+          "AAPL_9"
+        ],
+        "relevant": [
+          "AMZN_5",
+          "AMZN_6"
+        ],
+        "hit": 1.0
+      },
+      {
+        "qid": "q19",
+        "question": "How many employees did Amazon have as of December 31, 2024?",
+        "retrieved": [
+          "AMZN_1",
+          "AMZN_9",
+          "AMZN_0",
+          "AMZN_4",
+          "MSFT_1"
+        ],
+        "relevant": [
+          "AMZN_1"
+        ],
+        "hit": 1.0
+      },
+      {
+        "qid": "q20",
+        "question": "How much did Amazon invest in Anthropic convertible notes?",
+        "retrieved": [
+          "AMZN_8",
+          "MSFT_1",
+          "AAPL_12",
+          "AMZN_3",
+          "AMZN_1"
+        ],
+        "relevant": [
+          "AMZN_8"
+        ],
+        "hit": 1.0
+      },
+      {
+        "qid": "q21",
+        "question": "What were Amazon's cash capital expenditures in 2024 compared to 2023?",
+        "retrieved": [
+          "AMZN_8",
+          "AMZN_7",
+          "MSFT_2",
+          "AAPL_12",
+          "AMZN_6"
+        ],
+        "relevant": [
+          "AMZN_8"
+        ],
+        "hit": 1.0
+      },
+      {
+        "qid": "q22",
+        "question": "What tax dispute is Amazon facing with the Indian tax authority?",
+        "retrieved": [
+          "AMZN_3",
+          "AAPL_11",
+          "AAPL_10",
+          "AAPL_12",
+          "AAPL_3"
+        ],
+        "relevant": [
+          "AMZN_3"
+        ],
+        "hit": 1.0
+      }
+    ]
+  },
+  "LSA (dense proxy)": {
+    "recall_at_1": 0.5909090909090909,
+    "recall_at_3": 0.8181818181818182,
+    "recall_at_5": 0.9090909090909091,
+    "mrr": 0.712121212121212,
+    "n_questions": 22,
+    "per_question_at_5": [
+      {
+        "qid": "q1",
+        "question": "How many full-time equivalent employees did Apple have as of September 28, 2024?",
+        "retrieved": [
+          "AAPL_2",
+          "AMZN_0",
+          "AAPL_12",
+          "AAPL_1",
+          "AAPL_15"
+        ],
+        "relevant": [
+          "AAPL_2"
+        ],
+        "hit": 1.0
+      },
+      {
+        "qid": "q2",
+        "question": "What was Apple's total net sales in fiscal year 2024?",
+        "retrieved": [
+          "AMZN_6",
+          "AMZN_7",
+          "AAPL_9",
+          "AMZN_5",
+          "AAPL_8"
+        ],
+        "relevant": [
+          "AAPL_8",
+          "AAPL_9"
+        ],
+        "hit": 1.0
+      },
+      {
+        "qid": "q3",
+        "question": "What was Apple's Services segment net sales in 2024 and how much did it grow?",
+        "retrieved": [
+          "AAPL_9",
+          "AAPL_8",
+          "AMZN_6",
+          "AAPL_1",
+          "AMZN_5"
+        ],
+        "relevant": [
+          "AAPL_10"
+        ],
+        "hit": 0.0
+      },
+      {
+        "qid": "q4",
+        "question": "What was Apple's total gross margin percentage in fiscal 2024?",
+        "retrieved": [
+          "AAPL_11",
+          "AAPL_10",
+          "MSFT_8",
+          "AAPL_1",
+          "AAPL_0"
+        ],
+        "relevant": [
+          "AAPL_11"
+        ],
+        "hit": 1.0
+      },
+      {
+        "qid": "q5",
+        "question": "What was Apple's effective tax rate in fiscal 2024 and why was it higher than the statutory rate?",
+        "retrieved": [
+          "AAPL_11",
+          "AAPL_10",
+          "AAPL_1",
+          "AAPL_0",
+          "MSFT_8"
+        ],
+        "relevant": [
+          "AAPL_9",
+          "AAPL_10",
+          "AAPL_11"
+        ],
+        "hit": 1.0
+      },
+      {
+        "qid": "q6",
+        "question": "How much cash, cash equivalents and marketable securities did Apple hold as of September 28, 2024?",
+        "retrieved": [
+          "AAPL_12",
+          "AMZN_8",
+          "AAPL_13",
+          "AMZN_7",
+          "AMZN_6"
+        ],
+        "relevant": [
+          "AAPL_12"
+        ],
+        "hit": 1.0
+      },
+      {
+        "qid": "q7",
+        "question": "How much did Apple pay Ireland in connection with the State Aid Decision?",
+        "retrieved": [
+          "AAPL_13",
+          "AAPL_12",
+          "AAPL_1",
+          "AAPL_0",
+          "AMZN_8"
+        ],
+        "relevant": [
+          "AAPL_13"
+        ],
+        "hit": 1.0
+      },
+      {
+        "qid": "q8",
+        "question": "How much did Apple spend on share repurchases during fiscal 2024?",
+        "retrieved": [
+          "AAPL_1",
+          "AAPL_0",
+          "AAPL_13",
+          "AAPL_12",
+          "AMZN_7"
+        ],
+        "relevant": [
+          "AAPL_14"
+        ],
+        "hit": 0.0
+      },
+      {
+        "qid": "q9",
+        "question": "What antitrust lawsuit did the U.S. Department of Justice file against Apple in 2024?",
+        "retrieved": [
+          "AAPL_7",
+          "AAPL_6",
+          "AAPL_0",
+          "AAPL_1",
+          "MSFT_2"
+        ],
+        "relevant": [
+          "AAPL_7"
+        ],
+        "hit": 1.0
+      },
+      {
+        "qid": "q10",
+        "question": "What did the European Commission investigate Apple for under the Digital Markets Act?",
+        "retrieved": [
+          "MSFT_6",
+          "AAPL_1",
+          "AAPL_0",
+          "AAPL_6",
+          "AAPL_7"
+        ],
+        "relevant": [
+          "AAPL_6"
+        ],
+        "hit": 1.0
+      },
+      {
+        "qid": "q11",
+        "question": "What was Microsoft's total revenue for fiscal year 2024?",
+        "retrieved": [
+          "MSFT_8",
+          "AMZN_7",
+          "AMZN_6",
+          "MSFT_0",
+          "AAPL_10"
+        ],
+        "relevant": [
+          "MSFT_8"
+        ],
+        "hit": 1.0
+      },
+      {
+        "qid": "q12",
+        "question": "How many people did Microsoft employ as of June 30, 2024?",
+        "retrieved": [
+          "MSFT_2",
+          "MSFT_3",
+          "MSFT_8",
+          "MSFT_4",
+          "AMZN_7"
+        ],
+        "relevant": [
+          "MSFT_2"
+        ],
+        "hit": 1.0
+      },
+      {
+        "qid": "q13",
+        "question": "What are Microsoft's three reportable segments?",
+        "retrieved": [
+          "AAPL_2",
+          "MSFT_0",
+          "MSFT_4",
+          "MSFT_2",
+          "MSFT_1"
+        ],
+        "relevant": [
+          "MSFT_0"
+        ],
+        "hit": 1.0
+      },
+      {
+        "qid": "q14",
+        "question": "What caused the Microsoft cybersecurity incident disclosed in the January 2024 Form 8-K?",
+        "retrieved": [
+          "MSFT_5",
+          "MSFT_4",
+          "MSFT_8",
+          "AMZN_7",
+          "MSFT_2"
+        ],
+        "relevant": [
+          "MSFT_5"
+        ],
+        "hit": 1.0
+      },
+      {
+        "qid": "q15",
+        "question": "When did Microsoft complete its acquisition of Activision Blizzard?",
+        "retrieved": [
+          "MSFT_7",
+          "MSFT_6",
+          "MSFT_8",
+          "MSFT_1",
+          "MSFT_2"
+        ],
+        "relevant": [
+          "MSFT_7"
+        ],
+        "hit": 1.0
+      },
+      {
+        "qid": "q16",
+        "question": "How many patents does Microsoft hold, according to its 10-K?",
+        "retrieved": [
+          "MSFT_2",
+          "MSFT_4",
+          "MSFT_1",
+          "MSFT_5",
+          "MSFT_0"
+        ],
+        "relevant": [
+          "MSFT_2"
+        ],
+        "hit": 1.0
+      },
+      {
+        "qid": "q17",
+        "question": "What was Amazon's total (consolidated) net sales for 2024?",
+        "retrieved": [
+          "AAPL_9",
+          "AMZN_6",
+          "AMZN_5",
+          "AAPL_8",
+          "AMZN_7"
+        ],
+        "relevant": [
+          "AMZN_5",
+          "AMZN_6"
+        ],
+        "hit": 1.0
+      },
+      {
+        "qid": "q18",
+        "question": "How much did AWS net sales grow in 2024?",
+        "retrieved": [
+          "AMZN_6",
+          "AMZN_5",
+          "AMZN_7",
+          "AAPL_9",
+          "AAPL_8"
+        ],
+        "relevant": [
+          "AMZN_5",
+          "AMZN_6"
+        ],
+        "hit": 1.0
+      },
+      {
+        "qid": "q19",
+        "question": "How many employees did Amazon have as of December 31, 2024?",
+        "retrieved": [
+          "AMZN_0",
+          "AMZN_1",
+          "AMZN_9",
+          "AMZN_5",
+          "AMZN_3"
+        ],
+        "relevant": [
+          "AMZN_1"
+        ],
+        "hit": 1.0
+      },
+      {
+        "qid": "q20",
+        "question": "How much did Amazon invest in Anthropic convertible notes?",
+        "retrieved": [
+          "AMZN_3",
+          "AMZN_0",
+          "AMZN_9",
+          "AMZN_8",
+          "AMZN_2"
+        ],
+        "relevant": [
+          "AMZN_8"
+        ],
+        "hit": 1.0
+      },
+      {
+        "qid": "q21",
+        "question": "What were Amazon's cash capital expenditures in 2024 compared to 2023?",
+        "retrieved": [
+          "AMZN_7",
+          "AMZN_6",
+          "AMZN_8",
+          "AMZN_5",
+          "AMZN_9"
+        ],
+        "relevant": [
+          "AMZN_8"
+        ],
+        "hit": 1.0
+      },
+      {
+        "qid": "q22",
+        "question": "What tax dispute is Amazon facing with the Indian tax authority?",
+        "retrieved": [
+          "AMZN_3",
+          "AMZN_0",
+          "AAPL_11",
+          "AAPL_10",
+          "AMZN_2"
+        ],
+        "relevant": [
+          "AMZN_3"
+        ],
+        "hit": 1.0
+      }
+    ]
+  },
+  "Hybrid (BM25 + LSA, RRF)": {
+    "recall_at_1": 0.6818181818181818,
+    "recall_at_3": 0.8636363636363636,
+    "recall_at_5": 0.9090909090909091,
+    "mrr": 0.7818181818181817,
+    "n_questions": 22,
+    "per_question_at_5": [
+      {
+        "qid": "q1",
+        "question": "How many full-time equivalent employees did Apple have as of September 28, 2024?",
+        "retrieved": [
+          "AAPL_2",
+          "AMZN_0",
+          "MSFT_2",
+          "AAPL_12",
+          "AAPL_15"
+        ],
+        "relevant": [
+          "AAPL_2"
+        ],
+        "hit": 1.0
+      },
+      {
+        "qid": "q2",
+        "question": "What was Apple's total net sales in fiscal year 2024?",
+        "retrieved": [
+          "AMZN_6",
+          "AAPL_10",
+          "AMZN_7",
+          "AMZN_5",
+          "MSFT_8"
+        ],
+        "relevant": [
+          "AAPL_8",
+          "AAPL_9"
+        ],
+        "hit": 0.0
+      },
+      {
+        "qid": "q3",
+        "question": "What was Apple's Services segment net sales in 2024 and how much did it grow?",
+        "retrieved": [
+          "AAPL_8",
+          "AAPL_9",
+          "AMZN_6",
+          "AAPL_1",
+          "AAPL_10"
+        ],
+        "relevant": [
+          "AAPL_10"
+        ],
+        "hit": 1.0
+      },
+      {
+        "qid": "q4",
+        "question": "What was Apple's total gross margin percentage in fiscal 2024?",
+        "retrieved": [
+          "AAPL_11",
+          "AAPL_10",
+          "MSFT_8",
+          "AAPL_1",
+          "MSFT_2"
+        ],
+        "relevant": [
+          "AAPL_11"
+        ],
+        "hit": 1.0
+      },
+      {
+        "qid": "q5",
+        "question": "What was Apple's effective tax rate in fiscal 2024 and why was it higher than the statutory rate?",
+        "retrieved": [
+          "AAPL_11",
+          "AAPL_10",
+          "AAPL_1",
+          "AMZN_3",
+          "MSFT_8"
+        ],
+        "relevant": [
+          "AAPL_9",
+          "AAPL_10",
+          "AAPL_11"
+        ],
+        "hit": 1.0
+      },
+      {
+        "qid": "q6",
+        "question": "How much cash, cash equivalents and marketable securities did Apple hold as of September 28, 2024?",
+        "retrieved": [
+          "AAPL_12",
+          "AMZN_7",
+          "AMZN_6",
+          "AMZN_8",
+          "AAPL_13"
+        ],
+        "relevant": [
+          "AAPL_12"
+        ],
+        "hit": 1.0
+      },
+      {
+        "qid": "q7",
+        "question": "How much did Apple pay Ireland in connection with the State Aid Decision?",
+        "retrieved": [
+          "AAPL_13",
+          "AAPL_12",
+          "AAPL_1",
+          "AAPL_11",
+          "MSFT_2"
+        ],
+        "relevant": [
+          "AAPL_13"
+        ],
+        "hit": 1.0
+      },
+      {
+        "qid": "q8",
+        "question": "How much did Apple spend on share repurchases during fiscal 2024?",
+        "retrieved": [
+          "AAPL_1",
+          "AAPL_13",
+          "AAPL_0",
+          "MSFT_2",
+          "AAPL_9"
+        ],
+        "relevant": [
+          "AAPL_14"
+        ],
+        "hit": 0.0
+      },
+      {
+        "qid": "q9",
+        "question": "What antitrust lawsuit did the U.S. Department of Justice file against Apple in 2024?",
+        "retrieved": [
+          "AAPL_6",
+          "AAPL_7",
+          "MSFT_2",
+          "AAPL_1",
+          "AAPL_8"
+        ],
+        "relevant": [
+          "AAPL_7"
+        ],
+        "hit": 1.0
+      },
+      {
+        "qid": "q10",
+        "question": "What did the European Commission investigate Apple for under the Digital Markets Act?",
+        "retrieved": [
+          "MSFT_6",
+          "AAPL_6",
+          "AAPL_1",
+          "AAPL_7",
+          "AAPL_0"
+        ],
+        "relevant": [
+          "AAPL_6"
+        ],
+        "hit": 1.0
+      },
+      {
+        "qid": "q11",
+        "question": "What was Microsoft's total revenue for fiscal year 2024?",
+        "retrieved": [
+          "MSFT_8",
+          "AAPL_11",
+          "AAPL_10",
+          "AMZN_7",
+          "AMZN_6"
+        ],
+        "relevant": [
+          "MSFT_8"
+        ],
+        "hit": 1.0
+      },
+      {
+        "qid": "q12",
+        "question": "How many people did Microsoft employ as of June 30, 2024?",
+        "retrieved": [
+          "MSFT_2",
+          "MSFT_8",
+          "AMZN_1",
+          "MSFT_3",
+          "MSFT_4"
+        ],
+        "relevant": [
+          "MSFT_2"
+        ],
+        "hit": 1.0
+      },
+      {
+        "qid": "q13",
+        "question": "What are Microsoft's three reportable segments?",
+        "retrieved": [
+          "AAPL_2",
+          "MSFT_0",
+          "MSFT_4",
+          "AMZN_0",
+          "MSFT_2"
+        ],
+        "relevant": [
+          "MSFT_0"
+        ],
+        "hit": 1.0
+      },
+      {
+        "qid": "q14",
+        "question": "What caused the Microsoft cybersecurity incident disclosed in the January 2024 Form 8-K?",
+        "retrieved": [
+          "MSFT_5",
+          "MSFT_4",
+          "MSFT_8",
+          "AAPL_7",
+          "AMZN_1"
+        ],
+        "relevant": [
+          "MSFT_5"
+        ],
+        "hit": 1.0
+      },
+      {
+        "qid": "q15",
+        "question": "When did Microsoft complete its acquisition of Activision Blizzard?",
+        "retrieved": [
+          "MSFT_7",
+          "MSFT_6",
+          "MSFT_8",
+          "MSFT_1",
+          "MSFT_2"
+        ],
+        "relevant": [
+          "MSFT_7"
+        ],
+        "hit": 1.0
+      },
+      {
+        "qid": "q16",
+        "question": "How many patents does Microsoft hold, according to its 10-K?",
+        "retrieved": [
+          "MSFT_2",
+          "MSFT_4",
+          "MSFT_5",
+          "MSFT_1",
+          "MSFT_0"
+        ],
+        "relevant": [
+          "MSFT_2"
+        ],
+        "hit": 1.0
+      },
+      {
+        "qid": "q17",
+        "question": "What was Amazon's total (consolidated) net sales for 2024?",
+        "retrieved": [
+          "AMZN_5",
+          "AAPL_9",
+          "AMZN_6",
+          "AAPL_10",
+          "AAPL_11"
+        ],
+        "relevant": [
+          "AMZN_5",
+          "AMZN_6"
+        ],
+        "hit": 1.0
+      },
+      {
+        "qid": "q18",
+        "question": "How much did AWS net sales grow in 2024?",
+        "retrieved": [
+          "AMZN_5",
+          "AMZN_6",
+          "AMZN_7",
+          "AAPL_9",
+          "AMZN_8"
+        ],
+        "relevant": [
+          "AMZN_5",
+          "AMZN_6"
+        ],
+        "hit": 1.0
+      },
+      {
+        "qid": "q19",
+        "question": "How many employees did Amazon have as of December 31, 2024?",
+        "retrieved": [
+          "AMZN_1",
+          "AMZN_0",
+          "AMZN_9",
+          "AMZN_6",
+          "AMZN_5"
+        ],
+        "relevant": [
+          "AMZN_1"
+        ],
+        "hit": 1.0
+      },
+      {
+        "qid": "q20",
+        "question": "How much did Amazon invest in Anthropic convertible notes?",
+        "retrieved": [
+          "AMZN_8",
+          "AMZN_3",
+          "MSFT_1",
+          "AMZN_0",
+          "AMZN_1"
+        ],
+        "relevant": [
+          "AMZN_8"
+        ],
+        "hit": 1.0
+      },
+      {
+        "qid": "q21",
+        "question": "What were Amazon's cash capital expenditures in 2024 compared to 2023?",
+        "retrieved": [
+          "AMZN_7",
+          "AMZN_8",
+          "AMZN_6",
+          "AMZN_9",
+          "AMZN_5"
+        ],
+        "relevant": [
+          "AMZN_8"
+        ],
+        "hit": 1.0
+      },
+      {
+        "qid": "q22",
+        "question": "What tax dispute is Amazon facing with the Indian tax authority?",
+        "retrieved": [
+          "AMZN_3",
+          "AAPL_11",
+          "AAPL_10",
+          "MSFT_1",
+          "AMZN_1"
+        ],
+        "relevant": [
+          "AMZN_3"
+        ],
+        "hit": 1.0
+      }
+    ]
+  }
+}

@@ -1,0 +1,116 @@
+SOURCE: Apple Inc. Form 10-K, Fiscal Year Ended September 28, 2024
+URL: https://www.sec.gov/Archives/edgar/data/320193/000032019324000123/aapl-20240928.htm
+
+ITEM 1. BUSINESS
+
+Company Background
+The Company designs, manufactures and markets smartphones, personal computers, tablets, wearables and accessories, and sells a variety of related services. The Company's fiscal year is the 52- or 53-week period that ends on the last Saturday of September.
+
+Products
+iPhone is the Company's line of smartphones based on its iOS operating system. The iPhone line includes iPhone 16 Pro, iPhone 16, iPhone 15, iPhone 14 and iPhone SE.
+Mac is the Company's line of personal computers based on its macOS operating system. The Mac line includes laptops MacBook Air and MacBook Pro, as well as desktops iMac, Mac mini, Mac Studio and Mac Pro.
+iPad is the Company's line of multipurpose tablets based on its iPadOS operating system. The iPad line includes iPad Pro, iPad Air, iPad and iPad mini.
+Wearables includes smartwatches, wireless headphones and spatial computers, including Apple Watch, AirPods, and Apple Vision Pro.
+Home includes Apple TV and HomePod products.
+
+Services
+The Company's services include Advertising, AppleCare, Cloud Services, Digital Content (App Store, Apple Arcade, Apple Fitness+, Apple Music, Apple News+, Apple TV+), and Payment Services (Apple Card, Apple Pay).
+
+Segments
+The Company manages its business primarily on a geographic basis. The Company's reportable segments consist of the Americas, Europe, Greater China, Japan and Rest of Asia Pacific.
+
+Human Capital
+As of September 28, 2024, the Company had approximately 164,000 full-time equivalent employees.
+
+Competition
+The markets for the Company's products and services are highly competitive, characterized by aggressive price competition and resulting downward pressure on gross margins, frequent introduction of new products and services, and short product life cycles.
+
+ITEM 1A. RISK FACTORS
+
+Macroeconomic and Industry Risks
+The Company's operations and performance depend significantly on global and regional economic conditions. The Company has international operations with sales outside the U.S. representing a majority of total net sales. Adverse macroeconomic conditions, including slow growth or recession, high unemployment, inflation, tighter credit, higher interest rates, and currency fluctuations, can adversely impact consumer confidence and spending.
+
+The Company's business can be impacted by political events, trade disputes, geopolitical tensions, conflict, terrorism, natural disasters, and public health issues. Substantially all of the Company's manufacturing is performed by outsourcing partners located primarily in China mainland, India, Japan, South Korea, Taiwan and Vietnam. Restrictions on international trade, such as tariffs, can materially adversely affect the Company's business and supply chain.
+
+Business Risks
+The Company depends on component and product manufacturing and logistical services provided by outsourcing partners, many located outside the U.S. The Company relies on single-source outsourcing partners in the U.S., Asia and Europe to supply and manufacture many components.
+
+The Company's products and services may be affected by design and manufacturing defects. The introduction of new and complex technologies, such as artificial intelligence features, can increase safety risks.
+
+Legal and Regulatory Compliance Risks
+The Company is subject to various claims, legal proceedings and government investigations. The Company faces a significant number of patent claims relating to its cellular-enabled products.
+
+Financial Risks
+The Company's profit margins vary across products, services, geographic segments and distribution channels. The Company generates a significant portion of net sales from a single product (iPhone), and a decline in demand for that product could significantly impact quarterly net sales.
+
+ITEM 3. LEGAL PROCEEDINGS
+
+Digital Markets Act Investigations
+On March 25, 2024, the European Commission announced two formal noncompliance investigations against the Company under the DMA, concerning Article 5(4) (developer communication/promotion rules) and Article 6(3) (default settings, uninstallation, browser choice screen). Fines can be up to 10% of the Company's annual worldwide net sales.
+
+Department of Justice Lawsuit
+On March 21, 2024, the U.S. DOJ and state attorneys general filed a civil antitrust lawsuit against the Company in the U.S. District Court for the District of New Jersey, alleging monopolization in the markets for "performance smartphones" and "smartphones."
+
+Epic Games
+Epic Games filed a lawsuit alleging violations of antitrust and unfair competition law based on App Store operation. The court issued an injunction enjoining the Company from prohibiting developers from including external purchasing links. The Company implemented a compliance plan on January 16, 2024, and filed a motion on September 30, 2024 to narrow or vacate the injunction.
+
+ITEM 7. MANAGEMENT'S DISCUSSION AND ANALYSIS
+
+Segment Operating Performance (net sales by segment, dollars in millions):
+Americas: 2024: $167,045 (+3%); 2023: $162,560 (-4%); 2022: $169,658
+Europe: 2024: $101,328 (+7%); 2023: $94,294 (-1%); 2022: $95,118
+Greater China: 2024: $66,952 (-8%); 2023: $72,559 (-2%); 2022: $74,200
+Japan: 2024: $25,052 (+3%); 2023: $24,257 (-7%); 2022: $25,977
+Rest of Asia Pacific: 2024: $30,658 (+4%); 2023: $29,615 (+1%); 2022: $29,375
+Total net sales: 2024: $391,035 (+2%); 2023: $383,285 (-3%); 2022: $394,328
+
+Greater China net sales decreased during 2024 compared to 2023 due primarily to lower net sales of iPhone and iPad, and weakness in the renminbi relative to the U.S. dollar.
+
+Products and Services Performance (net sales by category, dollars in millions):
+iPhone: 2024: $201,183 (0%); 2023: $200,583 (-2%); 2022: $205,489
+Mac: 2024: $29,984 (+2%); 2023: $29,357 (-27%); 2022: $40,177
+iPad: 2024: $26,694 (-6%); 2023: $28,300 (-3%); 2022: $29,292
+Wearables, Home and Accessories: 2024: $37,005 (-7%); 2023: $39,845 (-3%); 2022: $41,241
+Services: 2024: $96,169 (+13%); 2023: $85,200 (+9%); 2022: $78,129
+Total net sales: 2024: $391,035; 2023: $383,285; 2022: $394,328
+
+Services net sales increased during 2024 compared to 2023 due primarily to higher net sales from advertising, the App Store and cloud services.
+
+Gross Margin (dollars in millions):
+Products gross margin: 2024: $109,633; 2023: $108,803; 2022: $114,728
+Services gross margin: 2024: $71,050; 2023: $60,345; 2022: $56,054
+Total gross margin: 2024: $180,683; 2023: $169,148; 2022: $170,782
+Products gross margin percentage: 2024: 37.2%; 2023: 36.5%; 2022: 36.3%
+Services gross margin percentage: 2024: 73.9%; 2023: 70.8%; 2022: 71.7%
+Total gross margin percentage: 2024: 46.2%; 2023: 44.1%; 2022: 43.3%
+
+Operating Expenses (dollars in millions):
+Research and development: 2024: $31,370 (+5%); 2023: $29,915 (+14%); 2022: $26,251
+R&D percentage of total net sales: 2024: 8%; 2023: 8%; 2022: 7%
+Selling, general and administrative: 2024: $26,097 (+5%); 2023: $24,932 (-1%); 2022: $25,094
+SG&A percentage of total net sales: 2024: 7%; 2023: 7%; 2022: 6%
+Total operating expenses: 2024: $57,467 (+5%); 2023: $54,847 (+7%); 2022: $51,345
+
+Provision for Income Taxes (dollars in millions):
+Provision for income taxes: 2024: $29,749; 2023: $16,741; 2022: $19,300
+Effective tax rate: 2024: 24.1%; 2023: 14.7%; 2022: 16.2%
+Statutory federal income tax rate: 21% (all years)
+
+The Company's effective tax rate for 2024 was higher than the statutory rate due primarily to a one-time income tax charge of $10.2 billion, net, related to the State Aid Decision, and state income taxes, partially offset by a lower effective tax rate on foreign earnings and the impact of the U.S. federal R&D credit.
+
+Liquidity and Capital Resources
+The Company's balances of unrestricted cash, cash equivalents and marketable securities totaled $140.8 billion as of September 28, 2024.
+As of September 28, 2024, the Company had outstanding fixed-rate notes (Term Debt) with an aggregate principal amount of $97.3 billion, with $10.9 billion payable within 12 months.
+The Company had manufacturing purchase obligations of $53.0 billion, with $52.9 billion payable within 12 months.
+As of September 28, 2024, the Company had an obligation to pay 14.2 billion euros or $15.8 billion to Ireland in connection with the State Aid Decision, all expected to be paid within 12 months.
+
+Capital Return Program
+In May 2024, the Company announced a new share repurchase program of up to $110 billion and raised its quarterly dividend from $0.24 to $0.25 per share. During 2024, the Company repurchased $95.0 billion of its common stock and paid dividends and dividend equivalents of $15.2 billion.
+
+Stock Performance (five-year cumulative total return, $100 invested Sept 2019):
+Apple Inc.: Sept 2019: $100; Sept 2020: $207; Sept 2021: $273; Sept 2022: $281; Sept 2023: $322; Sept 2024: $430
+S&P 500 Index: Sept 2019: $100; Sept 2020: $113; Sept 2021: $156; Sept 2022: $131; Sept 2023: $155; Sept 2024: $210
+Dow Jones U.S. Technology Supersector Index: Sept 2019: $100; Sept 2020: $146; Sept 2021: $216; Sept 2022: $156; Sept 2023: $215; Sept 2024: $322
+
+Debt
+As of September 28, 2024 and September 30, 2023, the Company had $10.0 billion and $6.0 billion of commercial paper outstanding, respectively. The weighted-average interest rate of the Company's commercial paper was 5.00% and 5.28% as of September 28, 2024 and September 30, 2023, respectively.

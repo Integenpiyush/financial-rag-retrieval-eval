@@ -1,0 +1,22 @@
+{"qid": "q1", "question": "How many full-time equivalent employees did Apple have as of September 28, 2024?", "relevant_chunk_ids": ["AAPL_2"], "gold_answer": "approximately 164,000"}
+{"qid": "q2", "question": "What was Apple's total net sales in fiscal year 2024?", "relevant_chunk_ids": ["AAPL_8", "AAPL_9"], "gold_answer": "$391,035 million"}
+{"qid": "q3", "question": "What was Apple's Services segment net sales in 2024 and how much did it grow?", "relevant_chunk_ids": ["AAPL_10"], "gold_answer": "$96,169 million, up 13%"}
+{"qid": "q4", "question": "What was Apple's total gross margin percentage in fiscal 2024?", "relevant_chunk_ids": ["AAPL_11"], "gold_answer": "46.2%"}
+{"qid": "q5", "question": "What was Apple's effective tax rate in fiscal 2024 and why was it higher than the statutory rate?", "relevant_chunk_ids": ["AAPL_9", "AAPL_10", "AAPL_11"], "gold_answer": "24.1%, due to a one-time $10.2 billion tax charge from the State Aid Decision"}
+{"qid": "q6", "question": "How much cash, cash equivalents and marketable securities did Apple hold as of September 28, 2024?", "relevant_chunk_ids": ["AAPL_12"], "gold_answer": "$140.8 billion"}
+{"qid": "q7", "question": "How much did Apple pay Ireland in connection with the State Aid Decision?", "relevant_chunk_ids": ["AAPL_13"], "gold_answer": "14.2 billion euros, or $15.8 billion"}
+{"qid": "q8", "question": "How much did Apple spend on share repurchases during fiscal 2024?", "relevant_chunk_ids": ["AAPL_14"], "gold_answer": "$95.0 billion"}
+{"qid": "q9", "question": "What antitrust lawsuit did the U.S. Department of Justice file against Apple in 2024?", "relevant_chunk_ids": ["AAPL_7"], "gold_answer": "a civil antitrust lawsuit in the District of New Jersey alleging monopolization in performance smartphone and smartphone markets"}
+{"qid": "q10", "question": "What did the European Commission investigate Apple for under the Digital Markets Act?", "relevant_chunk_ids": ["AAPL_6"], "gold_answer": "Article 5(4) developer communication rules and Article 6(3) default settings/browser choice screen rules"}
+{"qid": "q11", "question": "What was Microsoft's total revenue for fiscal year 2024?", "relevant_chunk_ids": ["MSFT_8"], "gold_answer": "$245,122 million"}
+{"qid": "q12", "question": "How many people did Microsoft employ as of June 30, 2024?", "relevant_chunk_ids": ["MSFT_2"], "gold_answer": "approximately 228,000"}
+{"qid": "q13", "question": "What are Microsoft's three reportable segments?", "relevant_chunk_ids": ["MSFT_0"], "gold_answer": "Productivity and Business Processes, Intelligent Cloud, and More Personal Computing"}
+{"qid": "q14", "question": "What caused the Microsoft cybersecurity incident disclosed in the January 2024 Form 8-K?", "relevant_chunk_ids": ["MSFT_5"], "gold_answer": "a nation-state associated threat actor used a password spray attack to compromise a legacy test account"}
+{"qid": "q15", "question": "When did Microsoft complete its acquisition of Activision Blizzard?", "relevant_chunk_ids": ["MSFT_7"], "gold_answer": "October 2023"}
+{"qid": "q16", "question": "How many patents does Microsoft hold, according to its 10-K?", "relevant_chunk_ids": ["MSFT_2"], "gold_answer": "over 63,000 issued, over 23,000 pending"}
+{"qid": "q17", "question": "What was Amazon's total (consolidated) net sales for 2024?", "relevant_chunk_ids": ["AMZN_5", "AMZN_6"], "gold_answer": "$637,959 million"}
+{"qid": "q18", "question": "How much did AWS net sales grow in 2024?", "relevant_chunk_ids": ["AMZN_5", "AMZN_6"], "gold_answer": "19%, to $107,556 million"}
+{"qid": "q19", "question": "How many employees did Amazon have as of December 31, 2024?", "relevant_chunk_ids": ["AMZN_1"], "gold_answer": "approximately 1,556,000"}
+{"qid": "q20", "question": "How much did Amazon invest in Anthropic convertible notes?", "relevant_chunk_ids": ["AMZN_8"], "gold_answer": "$1.25 billion (Q3 2023), $2.75 billion (Q1 2024), $1.3 billion (Q4 2024)"}
+{"qid": "q21", "question": "What were Amazon's cash capital expenditures in 2024 compared to 2023?", "relevant_chunk_ids": ["AMZN_8"], "gold_answer": "$77.7 billion in 2024 vs $48.1 billion in 2023"}
+{"qid": "q22", "question": "What tax dispute is Amazon facing with the Indian tax authority?", "relevant_chunk_ids": ["AMZN_3"], "gold_answer": "the Indian tax authority asserts tax applies to cloud services fees paid to Amazon in the U.S., which Amazon is contesting"}

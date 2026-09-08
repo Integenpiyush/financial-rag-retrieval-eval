@@ -1,0 +1,88 @@
+SOURCE: Amazon.com, Inc. Form 10-K, Fiscal Year Ended December 31, 2024
+URL: https://www.sec.gov/Archives/edgar/data/1018724/000101872425000004/amzn-20241231.htm
+
+ITEM 1. BUSINESS
+
+General
+Amazon seeks to be Earth's most customer-centric company, guided by customer obsession, passion for invention, commitment to operational excellence, and long-term thinking.
+
+Segments
+Amazon has organized its operations into three segments: North America, International, and Amazon Web Services (AWS).
+
+Consumers
+Amazon serves consumers through online and physical stores, focusing on selection, price, and convenience. Amazon manufactures and sells electronic devices including Kindle, Fire tablet, Fire TV, Echo, Ring, Blink, and eero, and offers Amazon Prime membership.
+
+Developers and Enterprises
+Amazon serves developers and enterprises through AWS, offering on-demand technology services including compute, storage, database, analytics, and machine learning.
+
+Human Capital
+As of December 31, 2024, Amazon employed approximately 1,556,000 full-time and part-time employees. Over 240,000 Amazon employees around the world have participated in the Career Choice education funding program.
+
+Executive Officers (as of January 29, 2025)
+Andrew R. Jassy - President and Chief Executive Officer (since July 2021)
+Jeffrey P. Bezos - Executive Chair (Chair of the Board since 1994)
+Matthew S. Garman - CEO Amazon Web Services (since June 2024)
+Douglas J. Herrington - CEO Worldwide Amazon Stores
+Brian T. Olsavsky - Senior Vice President and Chief Financial Officer (since June 2015)
+
+ITEM 1A. RISK FACTORS
+
+Business and Industry Risks
+Amazon's businesses are rapidly evolving and intensely competitive across physical, e-commerce, and omnichannel retail, e-commerce services, web and infrastructure computing services, electronic devices, digital content, advertising, grocery, healthcare, and logistics.
+
+International Operations
+Amazon's international sales and operations are subject to risks including local economic and political conditions, government regulation, restrictive governmental actions, foreign currency exchange restrictions, and geopolitical events including war and terrorism. China and India specifically regulate Amazon's businesses through licensing requirements that restrict foreign investment and operation.
+
+Fraudulent Activities of Sellers
+Amazon maintains policies to prevent sellers from collecting fraudulent payments or selling unlawful, counterfeit, or stolen goods. Under the A-to-z Guarantee, Amazon may reimburse customers for payments in these situations.
+
+Government Regulation
+Amazon faces open investigations based on claims that aspects of its operations infringe competition or consumer protection rules, including aspects of Amazon's fulfillment network, Prime, and AWS's cloud services offering. Amazon is litigating matters alleging price fixing, monopolization, and consumer protection claims brought by state attorneys general and the Federal Trade Commission.
+
+Tax Risk
+The Indian tax authority has asserted that tax applies to cloud services fees paid to Amazon in the U.S.; Amazon is contesting this position.
+
+ITEM 2. PROPERTIES
+
+As of December 31, 2024, Amazon operated (in thousands of square feet):
+Office space: 29,551 leased / 9,104 owned (North America); 23,771 leased / 1,802 owned (International)
+Fulfillment, data centers, and other: 448,168 leased / 36,869 owned (North America); 176,287 leased / 18,958 owned (International)
+
+By segment: North America 457,104 leased / 20,741 owned; International 166,673 leased / 11,741 owned; AWS 24,875 leased / 24,052 owned.
+
+ITEM 7. MANAGEMENT'S DISCUSSION AND ANALYSIS
+
+Net Sales by Segment (dollars in millions, year ended December 31):
+North America: 2024: $387,497 (+10%); 2023: $352,828 (+12%)
+International: 2024: $142,906 (+9%); 2023: $131,200 (+11%)
+AWS: 2024: $107,556 (+19%); 2023: $90,757 (+13%)
+Consolidated: 2024: $637,959 (+11%); 2023: $574,785 (+12%)
+
+Net Sales Mix (2024): North America 61%, International 22%, AWS 17%
+
+AWS sales increased 19% in 2024 compared to the prior year, primarily reflecting increased customer usage, partially offset by pricing changes driven by long-term customer contracts.
+
+Operating Expenses (dollars in millions, year ended December 31):
+Cost of sales: 2024: $326,288 (+7%); 2023: $304,739 (+6%)
+Fulfillment: 2024: $98,505 (+9%); 2023: $90,619 (+7%)
+Technology and infrastructure: 2024: $88,544 (+3%); 2023: $85,622 (+17%)
+Sales and marketing: 2024: $43,907 (-1%); 2023: $44,370 (+5%)
+General and administrative: 2024: $11,359 (-4%); 2023: $11,816 (-1%)
+Total operating expenses: 2024: $569,366; 2023: $537,933
+
+Percent of Net Sales (2024): Cost of sales 51.1%; Fulfillment 15.4%; Technology and infrastructure 13.9%; Sales and marketing 6.9%; General and administrative 1.8%
+
+Cash Flow Information (dollars in millions, year ended December 31):
+Operating activities: 2024: $115,877; 2023: $84,946
+Investing activities: 2024: $(94,342); 2023: $(49,833)
+Financing activities: 2024: $(11,812); 2023: $(15,879)
+
+Cash, cash equivalents, and marketable securities: $101.2 billion (2024) vs $86.8 billion (2023).
+Cash capital expenditures: $77.7 billion (2024) vs $48.1 billion (2023), primarily reflecting investments in technology infrastructure (majority to support AWS growth) and fulfillment network capacity.
+
+Amazon invested $1.25 billion in a convertible note from Anthropic, PBC in Q3 2023, an additional $2.75 billion in Q1 2024, and $1.3 billion in a third convertible note in Q4 2024, with an additional $2.7 billion planned by Q4 2025.
+
+Shipping costs were $89.5 billion (2023) and $95.8 billion (2024).
+Cash paid for U.S. and foreign income taxes (net of refunds): $11.2 billion (2023) and $12.3 billion (2024).
+
+Inventory sensitivity: for every 1% of additional inventory valuation allowance as of December 31, 2024, Amazon would have recorded an additional cost of sales of approximately $365 million.
